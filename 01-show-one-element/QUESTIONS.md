@@ -12,7 +12,7 @@ Teksts nepaliek atklāts, jo viņš nepaliek uzklikšķināts
 
 > Remove `window.addEventListener("load", function(){` (and the closing `})`) from **global.js**. Does the link still reveal the text? What is the purpose of this code that you've removed?
 
-Nē, tas gaida līdz lapa ielādējas, pirms pildīt funkciju.   
+Nē, jo nav pievienota klikšķināšanas notikums.   
 
 ---
 
