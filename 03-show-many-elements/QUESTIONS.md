@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Paslēptajiem elementiem bija style="display: none" atribūts, kas tos atklājot pārmainījās uz style="display: block"
+Paslēptajiem elementiem bija style="display: none" atribūts, kas tos atklājot pārmainījās uz style="display: block. "
