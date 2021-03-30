@@ -6,4 +6,4 @@
 
 > Describe the contract you used for finding the movies to toggle in the DOM. How is this function different from other functions that find elements in the DOM?
 
-Your reply here...
+Tā komanda paņem no abiem sarakstiem vajadzīgo sarakstu, bet iepriekšējās komandas paņem no visa, to kas atzīmēts ar kādu klasi.  
